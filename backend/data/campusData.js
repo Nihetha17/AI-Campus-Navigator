@@ -1,7 +1,7 @@
 const campusData = `
 Library:
 Location: Main Block
-Floor: Ground Floor
+Floor: First Floor
 
 CSE Lab 1:
 Location: CSE Block
